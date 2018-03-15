@@ -1,6 +1,6 @@
 # 通用对话弹窗CommonDialog
 
-
+(理解装饰者模式)
 
 Version 1.0
 
